@@ -1,4 +1,4 @@
-# NetSuite NodeJS Restlet Call & How-To
+# NetSuite NodeJS RESTlet Call & How-To
 Simple NodeJS app that call NetSuite RESTlet and get JSON data
 
 ## Used libraries
